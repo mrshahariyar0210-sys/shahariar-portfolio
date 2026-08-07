@@ -1,0 +1,21 @@
+{
+  "name": "Shahariar Shawon | Urban & Regional Planning Portfolio",
+  "short_name": "Shahariar Shawon",
+  "description": "Portfolio of Shahariar Shawon, an Urban & Regional Planning student specializing in GIS, spatial analysis, urban design, environmental planning, and transportation planning.",
+  "icons": [
+    {
+      "src": "assets/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#00c8b4",
+  "background_color": "#050d1a",
+  "display": "standalone",
+  "start_url": "."
+}
